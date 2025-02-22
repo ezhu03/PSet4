@@ -1,0 +1,8 @@
+up until r_1 = 1: dies out to 0
+from r_1 up until r_2 = 3: stable fixed point
+bifurcation at r_3 = 3
+second bifurcation at r_4 ≈ 3.45
+third bifurcation at r_5 ≈ 3.54
+chaos from r_6 ≈ 3.57
+small windows of stability between r_7 ≈ 3.83 and r_8 ≈ 3.85
+return to chaos after r_8 ≈ 3.85
